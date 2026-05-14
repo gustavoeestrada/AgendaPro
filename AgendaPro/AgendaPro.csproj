@@ -12,6 +12,7 @@
     <Folder Include="Entidades\" />
     <Folder Include="Datos\" />
     <Folder Include="Lógica\" />
+    <Folder Include="SQL\" />
     <Folder Include="Utilidades\" />
   </ItemGroup>
 
